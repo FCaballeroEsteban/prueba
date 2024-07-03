@@ -11,6 +11,8 @@ import java.util.Optional;
 public class GeneroConsoleAdapter {
 
 
+
+    
     Scanner sc = new Scanner(System.in);
 
     private final GeneroService generoService; 

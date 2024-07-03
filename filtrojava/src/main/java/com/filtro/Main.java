@@ -13,7 +13,7 @@ public class Main {
 
         String url = "jdbc:mysql://localhost:3306/cinecampus";
         String user = "root";
-        String password = "123456";
+        String password = "MVE11feb94";
 
         ActorMySQLRepository actorMySQLRepository = new ActorMySQLRepository(url, user, password);
 

@@ -33,4 +33,5 @@ public class GeneroService {
     public List<Genero> findAllGeneros(){
         return generoRepository.findAll();
     }
+    
 }

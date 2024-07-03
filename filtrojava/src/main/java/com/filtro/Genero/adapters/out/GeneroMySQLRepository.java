@@ -16,6 +16,7 @@ public class GeneroMySQLRepository implements GeneroRepository{
     private final String user;
     private final String password;
 
+    
 
     public GeneroMySQLRepository(String url, String user, String password){
         this.url = url;
